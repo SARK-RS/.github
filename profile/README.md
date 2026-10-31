@@ -1,6 +1,6 @@
 <div align="center">
 
-# SARK-RS
+<img src = "https://github.com/2b-adrix/2b-adrix/blob/main/1774850926972.png " width="1000"/>
 
 ### SOFTWARE ARCHITECTS FOR ROOT KERNELS — RESEARCH SYSTEMS
 
