@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src = "https://https://github.com/SARK-RS/.github/logo.png " width="1000"/>
+<img src = "https://github.com/SARK-RS/.github/logo.png " width="1000"/>
 
 ### SOFTWARE ARCHITECTS FOR ROOT KERNELS — RESEARCH SYSTEMS
 
